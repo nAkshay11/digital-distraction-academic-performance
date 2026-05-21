@@ -1,0 +1,11 @@
+﻿student_id,name,sleep_hours,mobile_usage_hours,study_hours,attendance_percentage,assignments_completed,cgpa,productivity_score,stress_level
+9,Meena,8,2,6,96,10,9.3,134.8,Low
+5,Sneha,8,3,6,95,10,9.1,132.5,Low
+7,Divya,7,4,5,92,9,8.9,114.6,Low
+2,Rahul,7,4,5,90,9,8.8,114,Low
+3,Priya,6,5,4,85,8,8.1,95.5,Medium
+8,Sanjay,6,6,3,80,7,7.5,77,Medium
+1,Akshay,5,7,2,78,6,7.2,59.4,Medium
+6,Kiran,5,8,2,70,5,6.9,50,Medium
+4,Arun,4,9,1,65,4,6.5,31.5,High
+10,Ajay,4,10,1,60,3,6.1,23,High
